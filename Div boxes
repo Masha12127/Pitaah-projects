@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Two Boxes Inside One</title>
+</head>
+<body>
+
+    <div style="width: 80%; margin: 20px auto; padding: 20px; background-color: #f4f4f4; border: 2px solid #333; display: flex; justify-content: space-around;">
+        
+        <div style="width: 40%; padding: 15px; background-color: lightblue; border: 2px dashed blue; text-align: center;">
+            Box 1 - Light Blue
+        </div>
+
+        <div style="width: 40%; padding: 15px; background-color: lightcoral; border: 2px solid red; text-align: center;">
+            Box 2 - Light Coral
+        </div>
+
+    </div>
+
+</body>
+</html>
